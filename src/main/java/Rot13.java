@@ -6,7 +6,7 @@ public class Rot13{
 		System.out.println(descifrar("NEEVON YVGEBANF l ivin Senapb"));
 	}
 
-	
+	*//@return string que cifra/* 
 	private static String cifrar(String msg) {
 		StringBuilder cifrado = new StringBuilder();
 		for(int i = 0; i < msg.length(); i++) {
