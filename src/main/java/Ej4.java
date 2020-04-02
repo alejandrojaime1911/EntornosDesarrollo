@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class Ej4 {
-
+*//@param cadena de palabras*/
 	public static void main(String[] args) {
 
 		Scanner s = new Scanner(System.in);
